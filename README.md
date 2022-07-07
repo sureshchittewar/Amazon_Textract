@@ -1,4 +1,4 @@
-# Amazon_Textract
+# Amazon_Textract_Extract_text_key_value_pair_tables
 
 Amazon Textract makes it easy to add document text detection and analysis to your applications. Using Amazon Textract customers can:
 
